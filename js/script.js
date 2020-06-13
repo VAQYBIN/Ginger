@@ -46,8 +46,8 @@ $(document).ready(function () {
   $('.carousel__slider-inner').slick({
     infinity: true,
     speed: 1000,
-    nextArrow: '<button class="slick-arrow slick-next"><img src="../images/next.png" alt="next arrow"></button>',
-    prevArrow: '<button class="slick-arrow slick-prev"><img src="../images/prev.png" alt="prev arrow"></button>'
+    nextArrow: '<button class="slick-arrow slick-next"><img src="images/next.png" alt="next arrow"></button>',
+    prevArrow: '<button class="slick-arrow slick-prev"><img src="images/prev.png" alt="prev arrow"></button>'
   });
 });
 
